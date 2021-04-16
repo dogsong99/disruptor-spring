@@ -30,6 +30,7 @@ public class BeanFactory {
     private static Map<String, Object> beanMap = new HashMap<>();
 
     public static Object getBean(String beanName) {
+        
         // 双检锁保证beanMap中确实没有beanName对应的对象
         if (!beanMap.containsKey(beanName)) {
             synchronized (BeanFactory.class) {

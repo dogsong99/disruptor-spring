@@ -9,33 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65b0186-36f4-4474-a151-c638174ee8da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/src/main/java/com/dogsong/architecture/a_Original/dao/IDemoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/src/main/java/com/dogsong/architecture/a_Original/dao/impl/DemoDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/src/main/java/com/dogsong/architecture/a_Original/factory/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/src/main/java/com/dogsong/architecture/a_Original/service/IDemoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/src/main/java/com/dogsong/architecture/a_Original/service/impl/DemoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/src/main/java/com/dogsong/architecture/servlet/DemoServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/src/main/resources/factory.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/classes/com/dogsong/architecture/a_Original/dao/IDemoDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/classes/com/dogsong/architecture/a_Original/dao/impl/DemoDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/classes/com/dogsong/architecture/a_Original/factory/BeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/classes/com/dogsong/architecture/a_Original/service/IDemoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/classes/com/dogsong/architecture/a_Original/service/impl/DemoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/classes/com/dogsong/architecture/servlet/DemoServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/classes/factory.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/spring-framework-projects-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/spring-framework-projects-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/spring-framework-projects-1.0-SNAPSHOT/WEB-INF/classes/com/dogsong/architecture/a_Original/dao/IDemoDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/spring-framework-projects-1.0-SNAPSHOT/WEB-INF/classes/com/dogsong/architecture/a_Original/dao/impl/DemoDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/spring-framework-projects-1.0-SNAPSHOT/WEB-INF/classes/com/dogsong/architecture/a_Original/factory/BeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/spring-framework-projects-1.0-SNAPSHOT/WEB-INF/classes/com/dogsong/architecture/a_Original/service/IDemoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/spring-framework-projects-1.0-SNAPSHOT/WEB-INF/classes/com/dogsong/architecture/a_Original/service/impl/DemoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/spring-framework-projects-1.0-SNAPSHOT/WEB-INF/classes/com/dogsong/architecture/servlet/DemoServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-projects/target/spring-framework-projects-1.0-SNAPSHOT/WEB-INF/classes/factory.properties" afterDir="false" />
-    </list>
+    <list default="true" id="c65b0186-36f4-4474-a151-c638174ee8da" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618561684088</updated>
-      <workItem from="1618561685304" duration="914000" />
+      <workItem from="1618561685304" duration="1226000" />
     </task>
     <servers />
   </component>
