@@ -14,6 +14,10 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
+        <!--servlet版本-->
+        <javax.servlet-api.version>3.1.0</javax.servlet-api.version>
+        <!--spring-context版本-->
+        <spring-context.version>5.2.8.RELEASE</spring-context.version>
     </properties>
 
     <packaging>war</packaging>
@@ -23,14 +27,14 @@
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
-            <version>3.1.0</version>
+            <version>${javax.servlet-api.version}</version>
             <scope>provided</scope>
         </dependency>
 
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
-            <version>5.2.8.RELEASE</version>
+            <version>${spring-context.version}</version>
         </dependency>
 
     </dependencies>

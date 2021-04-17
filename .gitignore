@@ -3,3 +3,4 @@
 .idea
 */target/
 */.idea/
+/spring-framework-projects/target/
