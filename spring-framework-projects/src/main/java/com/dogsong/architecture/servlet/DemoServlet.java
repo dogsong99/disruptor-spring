@@ -2,8 +2,8 @@ package com.dogsong.architecture.servlet;
 
 
 
-import com.dogsong.architecture.a_Original.service.IDemoService;
-import com.dogsong.architecture.a_Original.service.impl.DemoServiceImpl;
+import com.dogsong.architecture.a_original.service.IDemoService;
+import com.dogsong.architecture.a_original.service.impl.DemoServiceImpl;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

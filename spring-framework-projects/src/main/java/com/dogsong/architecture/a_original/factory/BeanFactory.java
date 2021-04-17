@@ -1,4 +1,4 @@
-package com.dogsong.architecture.a_Original.factory;
+package com.dogsong.architecture.a_original.factory;
 
 import java.io.IOException;
 import java.util.HashMap;
