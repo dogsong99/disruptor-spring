@@ -1,7 +1,7 @@
-package com.dogsong.architecture.a_original.dao.impl;
+package com.dogsong.architecture.servlet.a_original.dao.impl;
 
 
-import com.dogsong.architecture.a_original.dao.IDemoDao;
+import com.dogsong.architecture.servlet.a_original.dao.IDemoDao;
 
 import java.util.Arrays;
 import java.util.List;

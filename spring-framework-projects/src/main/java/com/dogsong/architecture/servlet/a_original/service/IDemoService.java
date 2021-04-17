@@ -1,4 +1,4 @@
-package com.dogsong.architecture.a_original.dao;
+package com.dogsong.architecture.servlet.a_original.service;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import java.util.List;
  * @description: TODO
  * @date 2021/4/16.
  */
-public interface IDemoDao {
+public interface IDemoService {
 
     List<String> findAll();
 

@@ -1,9 +1,9 @@
-package com.dogsong.architecture.a_original.service.impl;
+package com.dogsong.architecture.servlet.a_original.service.impl;
 
 
-import com.dogsong.architecture.a_original.dao.IDemoDao;
-import com.dogsong.architecture.a_original.factory.BeanFactory;
-import com.dogsong.architecture.a_original.service.IDemoService;
+import com.dogsong.architecture.servlet.a_original.dao.IDemoDao;
+import com.dogsong.architecture.servlet.a_original.factory.BeanFactory;
+import com.dogsong.architecture.servlet.a_original.service.IDemoService;
 
 import java.util.List;
 

@@ -2,8 +2,8 @@ package com.dogsong.architecture.servlet;
 
 
 
-import com.dogsong.architecture.a_original.service.IDemoService;
-import com.dogsong.architecture.a_original.service.impl.DemoServiceImpl;
+import com.dogsong.architecture.servlet.a_original.service.IDemoService;
+import com.dogsong.architecture.servlet.a_original.service.impl.DemoServiceImpl;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author domisong.
+ * @author: domisong.
  * @description: first servlet dome
  * @date 2021/4/16.
  */
