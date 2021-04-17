@@ -1,7 +1,7 @@
-package com.dogsong.architecture.d_withanno;
+package com.dogsong.architecture.bacis_dl.d_withanno;
 
-import com.dogsong.architecture.d_withanno.bean.Cat;
-import com.dogsong.architecture.d_withanno.bean.Dog;
+import com.dogsong.architecture.bacis_dl.d_withanno.bean.Cat;
+import com.dogsong.architecture.bacis_dl.d_withanno.bean.Dog;
 import org.springframework.beans.factory.ObjectProvider;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

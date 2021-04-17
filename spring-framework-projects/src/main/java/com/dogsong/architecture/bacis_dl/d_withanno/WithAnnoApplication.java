@@ -1,6 +1,6 @@
-package com.dogsong.architecture.d_withanno;
+package com.dogsong.architecture.bacis_dl.d_withanno;
 
-import com.dogsong.architecture.d_withanno.anno.Color;
+import com.dogsong.architecture.bacis_dl.d_withanno.anno.Color;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

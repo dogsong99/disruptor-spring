@@ -1,4 +1,4 @@
-package com.dogsong.architecture.d_withanno;
+package com.dogsong.architecture.bacis_dl.d_withanno;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

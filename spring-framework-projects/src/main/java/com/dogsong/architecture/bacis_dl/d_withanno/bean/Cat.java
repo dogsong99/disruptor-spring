@@ -1,4 +1,4 @@
-package com.dogsong.architecture.d_withanno.bean;
+package com.dogsong.architecture.bacis_dl.d_withanno.bean;
 
 /**
  * @author domisong.
