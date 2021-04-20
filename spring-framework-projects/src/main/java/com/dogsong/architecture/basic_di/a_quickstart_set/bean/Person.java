@@ -1,9 +1,9 @@
-package com.dogsong.architecture.basic_di.bean;
+package com.dogsong.architecture.basic_di.a_quickstart_set.bean;
 
 /**
  * @author domisong.
  * @description: TODO
- * @date 2021/4/17.
+ * @date 2021/4/19.
  */
 public class Person {
 
@@ -35,8 +35,4 @@ public class Person {
                 '}';
     }
 
-    public Person(String name, Integer age) {
-        this.name = name;
-        this.age = age;
-    }
 }

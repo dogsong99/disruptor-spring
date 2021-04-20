@@ -5,8 +5,12 @@
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id="person" class="com.dogsong.architecture.basic_di.bean.Person">
-        <property name="name" value="test-person-byset"/>
-        <property name="age" value="18"/>
+
+        <!--<property name="name" value="test-person-byset"/>
+        <property name="age" value="18"/>-->
+
+        <constructor-arg index="0" value="test-person-byconstructor"/>
+        <constructor-arg index="1" value="18"/>
     </bean>
 
     <bean id="cat" class="com.dogsong.architecture.basic_di.bean.Cat">
